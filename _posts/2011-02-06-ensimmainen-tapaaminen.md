@@ -16,7 +16,7 @@ Lyhyet alustukset
 
 Rekisteröityminen
 
-Jotta tiedämme varautua, lähetä sähköposti <a href="mailto:aws-helsinki@enemy.fi">aws-helsinki@enemy.fi</a> jossa kerrot tulostasi.  Olisi myös toivottavaa, että saamme lisää lyhyitä (5min+) alustuksia, kerro siis mahdollisesta aiheestasi ilmoittautumisen yhteydessä.
+Jotta tiedämme varautua, lähetä sähköposti osoitteeseen <a href="mailto:aws-helsinki@enemy.fi">aws-helsinki@enemy.fi</a> jossa kerrot tulostasi.  Olisi myös toivottavaa, että saamme lisää lyhyitä (5min+) alustuksia, kerro siis mahdollisesta aiheestasi ilmoittautumisen yhteydessä.
 
 
 Tule mukaan jakamaan kokemuksia, jaossa on myös muutama AWS-tarra :)

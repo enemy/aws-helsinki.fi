@@ -1,0 +1,4 @@
+h1. AWS User Group Helsinki
+
+The site at http://www.aws-helsinki.fi
+

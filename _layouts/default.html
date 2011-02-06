@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title>{{ page.title }}</title>		
+		<meta charset="utf-8" />
+
+		<link rel="stylesheet" type="text/css" href="/css/screen.css">
+		<link href="http://www.aws-helsinki.fi/tom-preston-werner" rel="alternate" title="AWS UG Helsinki" type="application/atom+xml" />
+		
+		<!--[if IE]>
+		<script>
+		  var e = ("abbr,article,aside,audio,canvas,datalist,details," +
+		    "figure,footer,header,hgroup,mark,menu,meter,nav,output," +
+		    "progress,section,time,video").split(',');
+		  for (var i = 0; i < e.length; i++) {
+		    document.createElement(e[i]);
+		  }
+		</script>
+		<![endif]-->
+	</head>
+
+	<body>		
+		<header>
+			<hgroup>
+				<h1><a href="/"><img src="/images/aws_logo_v3.gif" id="logo"/></a><a href="/">AWS User Group - Helsinki</a></h1>
+			</hgroup>
+		</header>
+
+		<section>
+  
+  			{{ content }}
+  
+		</section>
+
+		<footer>
+			<p><a href="http://www.twitter.com/awshelsinki">@awshelsinki</a> | <a href="/atom.xml"><img src="/images/rss.png" alt="atom feed" /></a>
+			</p>
+		</footer>		
+</body>
+</html>

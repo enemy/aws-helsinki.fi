@@ -1,0 +1,58 @@
+article,aside,figure,footer,header,hgroup,nav,section {
+	display:block
+}
+
+body {
+	background-color: #fff;
+}
+
+body {
+	padding:0;
+	margin:0;
+
+	line-height:1.75;
+	
+	font-family: "Helvetica Neue", Helvetica, Arial, Helvetica, sans-serif;
+
+	color: #000;
+}
+
+a img { border: 0; }
+
+a, a:focus, a:hover, a:visited {
+	color: #ff9900;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+header {
+	margin-top: 2em;
+}
+			
+header, section, footer {
+	margin-left: 10%;
+}
+
+article, div#disqus_thread {
+	max-width: 50em;
+}
+
+footer {
+	margin-top: 3em;
+}
+
+
+div#disqus_thread {
+	margin-top: 3em;
+}
+
+div.dsq-dc-logo, div.dsq-options  { 
+	display: none !important; 
+}
+
+header img#logo {
+	margin-right: 1em;
+}

@@ -10,7 +10,7 @@ Kokoonnumme 22.2.2011 kello 18:00 eteenpäin osoitteessa Vuorikatu 15 A, 5 krs. 
 
 Lyhyet alustukset
 
- - Web-softan rakentaminen käyttäen ainakin EC2+SQS+ELB+RDS (Lauri Lehmijoki / Efecte Oy)
+ - Web-softan rakentaminen käyttäen palveluja EC2+SQS+ELB+RDS+S3 (Lauri Lehmijoki / Efecte Oy)
  - CloudFront: staattisen sisällön jakaminen - the making of aws-helsinki.fi (Matti Paksula / Enemy &amp; Sons Oy)
  - Elastic Beanstalk, ensimmäiset hetket (Petrus Repo / Enemy &amp; Sons Oy)
 

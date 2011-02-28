@@ -20,3 +20,4 @@ Huom, aws-helsinki.fi käytti jo kahta viikkoa ennen Werneriä [tätä setuppia]
 
 Seuraavan tapaamisen järjestää Harri Kauhanen Futurice Oy:n tiloissa Lauttasaaressa, tarkempi ajankohta ilmoitetaan myöhemmin.
 
+Ja vielä viimehetken korjaus osallistujamäärään sillä [Paris Hilton](http://www.flickr.com/photos/e-z/5469412980/) nähtiin myös paikanpäällä.

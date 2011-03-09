@@ -11,7 +11,7 @@ n. 15 henkeä kokoontui Vuorikadulle, tästä on hyvä jatkaa!
 
 Kalvot
 
- - Lauri Lehmijoki: n/a
+ - Lauri Lehmijoki: [AWS @ Efecte](/assets/2011-02-22-aws-helsinki_lauri-lehmijoki_aws_at_efecte.pdf)
  - Matti Paksula: [CloudFront](/assets/2011-02-22_aws-helsinki_matti-paksula_cloudfront.pdf)
  - Petrus Repo: [Elastic Beanstalk](/assets/2011-02-22_aws-helsinki_petrus-repo_elastic-beanstalk.pdf)
  - Santeri Paavolainen: n/a

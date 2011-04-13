@@ -10,7 +10,7 @@ Toinen tapaaminen pidetään sopivasti ennen vappua 27.4.2011 kello 18:00 alkaen
 
 (Alustavasti nämä) lyhyet alustukset (10-15 min):
 
- - Matti Paksula, Enemy & Sons: <b>AWS pika-yleiskatsaus</b> "Mikä palvelu on mitäkin?"
+ - Petrus Repo, Enemy & Sons: <b>AWS pika-yleiskatsaus</b> "Mikä palvelu on mitäkin?"
  - Mikko Waris, Beddit: <b>Beddit ja AWS</b> "Miten käytämme AWS:ää"
  - Olli Ahonen, Futurice: <b>Sovelluksen suojaaminen SSL:llä</b> "Miten tämä yksittäinen ongelma ratkaistiin?"
  - Harri Kauhanen, Futurice: <b>AWS Sertifikaatit</b> "ISO 27001 yms. ja mitä ne tahtovat sanoa?"

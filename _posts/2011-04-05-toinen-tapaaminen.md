@@ -14,6 +14,7 @@ Toinen tapaaminen pidetään sopivasti ennen vappua 27.4.2011 kello 18:00 alkaen
  - Mikko Waris, Beddit: <b>Beddit ja AWS</b> "Miten käytämme AWS:ää"
  - Olli Ahonen, Futurice: <b>Sovelluksen suojaaminen SSL:llä</b> "Miten tämä yksittäinen ongelma ratkaistiin?"
  - Harri Kauhanen, Futurice: <b>AWS Sertifikaatit</b> "ISO 27001 yms. ja mitä ne tahtovat sanoa?"
+ - Petrus Repo, Enemy & Sons: <a href="http://www.cloudfoundry.com/">CloudFoundry</a> ensipuraisu 
 
 Lyhyet esitykset (15-30 min): 
  

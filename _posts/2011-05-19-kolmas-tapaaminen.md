@@ -6,7 +6,7 @@ title: Kolmas tapaaminen 7.6.2011 klo 18.00
 {{ page.title }}
 ================
 
-Kolmas tapaaminen pidetään kesäkuun alussa 7.6.2011 kello 18:00 alkaen <a href="http://www.codento.com/fi/company/arrival.html">Codentolla</a>, Itämerenkatu 5, 9. kerros. Seuraa ohjeita pääovella ja soita tarvittaessa Tommi Ullgrénille (040 779 4049).
+Kolmas tapaaminen pidetään kesäkuun alussa tiistaina 7.6.2011 kello 18:00 alkaen <a href="http://www.codento.com/fi/company/arrival.html">Codentolla</a>, Itämerenkatu 5, 9. kerros. Seuraa ohjeita pääovella ja soita tarvittaessa Tommi Ullgrénille (040 779 4049).
 
 Tällä kertaa erikoisvieraana on hollantilainen Jurg van Vliet (http://nl.linkedin.com/in/truthtrap), joka on O'Reillysin tuoreen "<a href="http://oreilly.com/catalog/0636920013228">Programming Amazon EC2</a>" -kirjan kirjoittaja.
 

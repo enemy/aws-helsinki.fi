@@ -13,6 +13,8 @@ Tällä kertaa erikoisvieraana on hollantilainen Jurg van Vliet (http://nl.linke
 Lisäksi lyhyet esitykset (n. 15 min): 
  
  - Pasi Mäkinen: Infra- ja alustapalvelun välissä; räätälöidyn virtuaalikoneen rakentaminen Windows Azurelle
+ - Lauri Lehmijoki: "REST and SOAP in AWS APIs".
+ - Ari Flinkman: "ELB Uncovered"
  - Matti Paksula: heroku.com ei ole enää vain rubylle - Cedar ajaa mitä tahansa. 
  
 <b>Ota yhteyttä jos haluat pitää pienen esityksen jostain teemasta.</b>

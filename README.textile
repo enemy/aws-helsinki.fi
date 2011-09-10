@@ -15,5 +15,5 @@ h2. Deploy
 * bundle exec jekyll
 * cd _site
 * ../deploy.sh (do *not* run at 'application root', remember to cd to '_site' first)
-* Check http://aws-helsinki.fi.s3.amazonaws.com/index.html
-* Wait up to 24 hours to be displayed at http://aws-helsinki.fi/
+* Check [http://aws-helsinki.fi.s3.amazonaws.com/index.html](http://aws-helsinki.fi.s3.amazonaws.com/index.html)
+* Wait up to 24 hours to be displayed at [http://aws-helsinki.fi/](http://aws-helsinki.fi/)

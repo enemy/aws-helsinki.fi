@@ -10,6 +10,12 @@ h2. Setup
 ** (Enter credentials)
 * @bundle install@
 
+h2. Develop
+
+* Make your changes/additions to the sources
+* @bundle exec jekyll --server@
+* Open "http://localhost:4000/":http://localhost:4000/
+
 h2. Deploy
 
 * @bundle exec jekyll@

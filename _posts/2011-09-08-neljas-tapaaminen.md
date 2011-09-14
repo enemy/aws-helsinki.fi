@@ -17,4 +17,4 @@ Varautuaksemme tarjoiluihin ilmoita osallistumisestasi sähköpostilla lauri.leh
 <h2>Summary in English</h2>
 Welcome to the fourth meeting of AWS User Group Helsinki on September 21. Efecte will offer us the venue at Kumpulantie 3, Helsinki. We'll start at 6 PM, and the rumours tell that there are going to be interesting AWS-related tech talks! If you want to give a presentation at the meeting, please send a proposal to Lauri (email below).
 
-Sauna, snacks and drinks will be available also. To register, please send an email to lauri.lehmijoki@efecte.fi.
+Sauna, snacks and drinks will also be available. To register, please send an email to lauri.lehmijoki@efecte.fi.

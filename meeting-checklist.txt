@@ -1,0 +1,17 @@
+A memo-checklist for those organizing the meetings.
+
+1. Send inquiries to tech people who could give a persentation at the next meeting
+
+2. Reserve a venue for 15–30 persons. Preferably one with sauna.
+
+3. Announce the meeting on the home page (see README.textfile)
+
+4. Announce the meeting on Twitter, LinkedIn, etc (ask Matti or Lauri for credentials on the @awshelsinki account)
+
+5. Send an email to aws-usergroups@amazon.com and ask them to put the next meeting on their news letter
+
+6. Order some snacks and drinks to the venue
+
+7. Make sure WLAN is available at the venue
+
+8. Enjoy the presentations, go to the sauna and throw some water on the rocks. Sihhhhhh

@@ -5,7 +5,7 @@ title: The presentations on the next meeting
 
 {{ page.title }}
 ================
-AWS Solutions Architect Carlos Conde will give us a presentation on ElastiCache and CloudFormation.
+AWS Solutions Architect Carlos Condé will give us a presentation on ElastiCache and CloudFormation.
 
 Chief Architect Razvan Matei will hold a presentation and a demo under the title "Single Sign-On in Multitenant Cloud Environments".
 

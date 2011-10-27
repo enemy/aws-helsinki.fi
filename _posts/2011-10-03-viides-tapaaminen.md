@@ -20,4 +20,10 @@ Next meeting is on Thursday, November 17th and it is organized by <a href="http:
 	<li>Eucalyptus product demo</li>
 </ul>
 
+<h2>Ilmoittaudu / Register</h2>
+
+<p>Please register to the event by sending an email to teemu.jalonen@proact.fi</p>
+
+<h2>Kartta / Map</h2>
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=Tekniikantie+12,+Espoo,+Suomi&amp;sll=60.184367,24.815507&amp;hl=en&amp;sspn=0.006295,0.006295&amp;ie=UTF8&amp;hq=&amp;hnear=Tekniikantie+12,+02150+Espoo,+Tapiola,+Finland&amp;t=m&amp;vpsrc=6&amp;ll=60.189159,24.814768&amp;spn=0.014934,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=Tekniikantie+12,+Espoo,+Suomi&amp;sll=60.184367,24.815507&amp;hl=en&amp;sspn=0.006295,0.006295&amp;ie=UTF8&amp;hq=&amp;hnear=Tekniikantie+12,+02150+Espoo,+Tapiola,+Finland&amp;t=m&amp;vpsrc=6&amp;ll=60.189159,24.814768&amp;spn=0.014934,0.036478&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
